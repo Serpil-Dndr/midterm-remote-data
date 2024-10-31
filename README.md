@@ -67,9 +67,9 @@ To run the Flask API on your local machine:
 1. Click on **"App Services"**.
 2. Click **"+ Add"**.
 3. Fill in:
-   - **Name**: Unique name for your app (e.g., `myFlaskApp`).
+   - **Name**: Unique name for your app (e.g., `studentmanagement`).
    - **Publish**: Select **Code**.
-   - **Runtime Stack**: Choose **Python 3.8**.
+   - **Runtime Stack**: Choose **Python 12,1**.
    - **Region**: Match your resource group.
 4. Click **"Review + Create"** and then **"Create"**.
 
